@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Laravel.**
 
-- 👨‍💻 All of my projects are available at [anjastabuni.github.io](anjastabuni.github.io)
+- 👨‍💻 All of my projects are available at [anjastabuni](anjastabuni)
 
 - 💬 Ask me about **Bootstrap, Javascript, PHP**
 
