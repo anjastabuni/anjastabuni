@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with [SaCode Papua](https://www.sacode.web.id/)
 
-- 👨‍💻 All of my projects are available at [anjastabuni.github.io](anjastabuni.github.io)
+- 👨‍💻 All of my projects are available at [anjastabuni.github.io](https://anjastabuni.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Javascript, PHP**
 
