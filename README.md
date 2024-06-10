@@ -1,15 +1,28 @@
-<h1 align="center">Hi 👋, I'm Rebly Megib Tabuni</h1>
-<h3 align="center">A passionate Web developer from papua</h3>
+<h1 align="center">Hi there, I'm Rebly Megib Tabuni 👋</h1>
+<h3 align="center">Passionate Web Developer | Based in Papua, Indonesia</h3>
+
+## 🌱 About Me
+
+👨‍💻 I'm currently honing my skills in Laravel and exploring advanced concepts in web development.
+
+🤝 I’m looking to collaborate on projects that make a positive impact and contribute to the tech community.
+
+💬 Ask me about anything related to HTML, CSS, JavaScript, PHP, or Laravel. I'm always eager to learn and share knowledge.
+
+## 🚀 Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- **Backend:** PHP, Laravel
+- **Database:** MySQL
+- **Tools:** Figma (UI/UX Design), Git
+- **Others:** RESTful APIs, Responsive Web Design
+
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/lingge_gaya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/reblytabuni22)
+
+📧 Feel free to reach out to me via email at [reblytabuni2004@gmail.com](mailto:reblytabuni2004@gmail.com).
 
 
-# 💫 About Me:
-🤝 I’m looking for help with [Sacode Papua](https://www.sacode.web.id/)<br>🌱 I’m currently learning Laravel <br>💬 Ask me about HTML, CSS, Javascript dan PHP<br>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code.liar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reblytabuni22) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
