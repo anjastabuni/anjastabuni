@@ -1,78 +1,42 @@
-<h1 align="center">Hi 👋, I'm Rebly Megib Tabuni</h1>
-<h3 align="center">A passionate Web Developer from Papua Pegunungan</h3>
+<h1 align="center" style="color:#F7DF1E;">Hi 👋, I'm Rebly Megib Tabuni</h1>
+<h3 align="center" style="color:#61DAFB;">A passionate Web Developer from Papua Pegunungan</h3>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="300"/>
-
-- 🌱 I’m currently learning **Javascript, Laravel, Kotlin**  
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, Javascript, PHP**  
-- 📫 How to reach me **reblytabuni2004@gmail.com**  
+🌱 I’m currently learning **JavaScript, Laravel, Kotlin**  
+💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, PHP**  
+📫 How to reach me **reblytabuni2004@gmail.com**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/reblytabuni22" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reblytabuni22" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/lingge_gaya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lingge_gaya" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjastabuni&show_icons=true&theme=radical" alt="anjastabuni" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjastabuni&theme=radical" alt="anjastabuni" />
-</p>
-
----
-
-<h3 align="left">My Activity:</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=anjastabuni&theme=react-dark" alt="anjastabuni" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anjastabuni&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
----
-
-<h3 align="center">✨ Thanks for visiting! ✨</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjastabuni&theme=tokyonight" alt="GitHub Streak" />
+</p>
