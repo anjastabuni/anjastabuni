@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#F7DF1E;">Hi 👋, I'm Rebly Megib Tabuni</h1>
-<h3 align="center" style="color:#61DAFB;">A passionate Web Developer from Papua Pegunungan</h3>
+<h3 align="center" style="color:#61DAFB;">A passionate Frelancer Web Developer from Jayapura-Papua</h3>
 
-🌱 I’m currently learning **JavaScript, Laravel, Kotlin**  
+🌱 I’m currently learning **Express.js, Laravel, React.js, Kotlin**  
 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, PHP**  
 📫 How to reach me **reblytabuni2004@gmail.com**  
 
