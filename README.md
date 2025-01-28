@@ -2,7 +2,7 @@
   Hi 👋, I'm Rebly Megib Tabuni
 </h1>
 <h3 align="center" style="color:#61DAFB; font-size: 1.5rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-shadow: 1px 1px 3px #000;">
-  A Passionate Freelancer Web Developer from Jayapura-Papua
+  A Passionate Junior Software Developer from Jayapura-Papua
 </h3>
 
 <div align="center" style="background: linear-gradient(to right, #1e3a8a, #1e40af, #2563eb); padding: 20px; border-radius: 10px; color: white;">
@@ -49,9 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjastabuni&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjastabuni&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
-</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FF00&width=435&lines=Welcome+to+My+GitHub+Profile!;Let's+Build+Something+Amazing+Together!" alt="Typing Animation" />
