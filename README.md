@@ -2,7 +2,7 @@
   Hi 👋, I'm Rebly Megib Tabuni
 </h1>
 <h3 align="center" style="color:#61DAFB; font-size: 1.5rem; font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 3px #000;">
-  A Passionate Full-Stact Developer from Jayapura-Papua
+  A Passionate Full-Stack Developer from Jayapura-Papua
 </h3>
 
 <div align="center" style="background: linear-gradient(to right, #1b4332, #40916c, #95d5b2); padding: 25px; border-radius: 15px; color: white; font-family: 'Poppins', sans-serif; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
